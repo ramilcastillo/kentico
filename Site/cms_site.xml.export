@@ -1,0 +1,18 @@
+﻿<cms_site version="12.0">
+  <NewDataSet>
+    <cms_site>
+      <SiteID>6</SiteID>
+      <SiteName>BlankSite</SiteName>
+      <SiteDisplayName>Blank Site</SiteDisplayName>
+      <SiteDescription>Sample blank web site</SiteDescription>
+      <SiteStatus>RUNNING</SiteStatus>
+      <SiteDomainName>localhost</SiteDomainName>
+      <SiteDefaultStylesheetID>33</SiteDefaultStylesheetID>
+      <SiteDefaultEditorStylesheet>34</SiteDefaultEditorStylesheet>
+      <SiteGUID>8ed8de02-03d1-40ec-b937-ea34dcf42333</SiteGUID>
+      <SiteLastModified>2019-03-21T11:19:42.1374217+08:00</SiteLastModified>
+      <SiteIsOffline>false</SiteIsOffline>
+      <SiteOfflineMessage></SiteOfflineMessage>
+    </cms_site>
+  </NewDataSet>
+</cms_site>

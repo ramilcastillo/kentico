@@ -1,0 +1,368 @@
+﻿<cms_pagetemplate version="12.0">
+  <NewDataSet>
+    <cms_pagetemplate>
+      <PageTemplateID>26251</PageTemplateID>
+      <PageTemplateDisplayName>Ad-hoc: ProductList</PageTemplateDisplayName>
+      <PageTemplateCodeName>ab25c099-3082-40cd-96fe-c5b3091e943b</PageTemplateCodeName>
+      <PageTemplateFile></PageTemplateFile>
+      <PageTemplateCategoryID>211</PageTemplateCategoryID>
+      <PageTemplateWebParts>&lt;page /&gt;</PageTemplateWebParts>
+      <PageTemplateIsReusable>false</PageTemplateIsReusable>
+      <PageTemplateInheritPageLevels>\</PageTemplateInheritPageLevels>
+      <PageTemplateLayout>&lt;div&gt;
+  &lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&gt;      
+&lt;/div&gt;
+&lt;div&gt;
+  &lt;div style="width: 20%; float: left;"&gt;
+    &lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&gt;      
+  &lt;/div&gt;
+  &lt;div style="width: 60%; float: left;"&gt;
+    &lt;div class="Content"&gt;&lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&gt;&lt;/div&gt;  
+  &lt;/div&gt;
+  &lt;div style="width: 20%; float: left;"&gt;
+    &lt;cms:CMSWebPartZone ZoneID="zoneD" runat="server" /&gt;      
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div style="clear: both"&gt;
+  &lt;cms:CMSWebPartZone ZoneID="zoneE" runat="server" /&gt;
+&lt;/div&gt;</PageTemplateLayout>
+      <PageTemplateVersionGUID>59a445b7-7776-4677-968a-780e559d0936</PageTemplateVersionGUID>
+      <PageTemplateGUID>ab25c099-3082-40cd-96fe-c5b3091e943b</PageTemplateGUID>
+      <PageTemplateLastModified>2019-03-21T14:10:03.5467909+08:00</PageTemplateLastModified>
+      <PageTemplateSiteID>6</PageTemplateSiteID>
+      <PageTemplateType>portal</PageTemplateType>
+      <PageTemplateLayoutType>ascx</PageTemplateLayoutType>
+      <PageTemplateCloneAsAdHoc>false</PageTemplateCloneAsAdHoc>
+      <PageTemplateNodeGUID>56bbe868-0c3f-4011-992a-6af37b36298b</PageTemplateNodeGUID>
+    </cms_pagetemplate>
+    <cms_pagetemplatesite>
+      <PageTemplateID>26251</PageTemplateID>
+      <SiteID>6</SiteID>
+    </cms_pagetemplatesite>
+    <cms_pagetemplatecategory>
+      <CategoryID>43</CategoryID>
+      <CategoryDisplayName>All page templates</CategoryDisplayName>
+      <CategoryName>/</CategoryName>
+      <CategoryGUID>532264bf-95e9-4035-b4ce-fe403c81781a</CategoryGUID>
+      <CategoryLastModified>2017-03-03T20:18:54.2689783+08:00</CategoryLastModified>
+      <CategoryImagePath></CategoryImagePath>
+      <CategoryChildCount>30</CategoryChildCount>
+      <CategoryTemplateChildCount>0</CategoryTemplateChildCount>
+      <CategoryPath>/</CategoryPath>
+      <CategoryLevel>0</CategoryLevel>
+    </cms_pagetemplatecategory>
+    <cms_pagetemplatecategory>
+      <CategoryID>211</CategoryID>
+      <CategoryDisplayName>Ad-hoc</CategoryDisplayName>
+      <CategoryParentID>43</CategoryParentID>
+      <CategoryName>AdHoc</CategoryName>
+      <CategoryGUID>f1b695a0-77ee-4119-ad84-9d77c2504260</CategoryGUID>
+      <CategoryLastModified>2017-03-03T20:18:53.7202397+08:00</CategoryLastModified>
+      <CategoryImagePath></CategoryImagePath>
+      <CategoryChildCount>0</CategoryChildCount>
+      <CategoryTemplateChildCount>290</CategoryTemplateChildCount>
+      <CategoryPath>/AdHoc</CategoryPath>
+      <CategoryLevel>1</CategoryLevel>
+    </cms_pagetemplatecategory>
+    <export_task>
+      <TaskID>7</TaskID>
+      <TaskSiteID>6</TaskSiteID>
+      <TaskTitle>Delete Page template 'Ad-hoc: ProductList'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_PageTemplate&gt;
+  &lt;PageTemplateID&gt;26247&lt;/PageTemplateID&gt;
+  &lt;PageTemplateDisplayName&gt;Ad-hoc: ProductList&lt;/PageTemplateDisplayName&gt;
+  &lt;PageTemplateCodeName&gt;438bc011-fc14-4db6-9dac-2b1d6d46352c&lt;/PageTemplateCodeName&gt;
+  &lt;PageTemplateFile /&gt;
+  &lt;PageTemplateCategoryID&gt;211&lt;/PageTemplateCategoryID&gt;
+  &lt;PageTemplateWebParts&gt;&amp;lt;page /&amp;gt;&lt;/PageTemplateWebParts&gt;
+  &lt;PageTemplateIsReusable&gt;false&lt;/PageTemplateIsReusable&gt;
+  &lt;PageTemplateInheritPageLevels&gt;\&lt;/PageTemplateInheritPageLevels&gt;
+  &lt;PageTemplateLayout&gt;&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;
+  &amp;lt;div style="width: 20%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 60%; float: left;"&amp;gt;
+    &amp;lt;div class="Content"&amp;gt;&amp;lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&amp;gt;&amp;lt;/div&amp;gt;  
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 20%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneD" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="clear: both"&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneE" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/PageTemplateLayout&gt;
+  &lt;PageTemplateVersionGUID&gt;48bdfd49-327d-4588-ad0d-1a4cddc7eee1&lt;/PageTemplateVersionGUID&gt;
+  &lt;PageTemplateGUID&gt;438bc011-fc14-4db6-9dac-2b1d6d46352c&lt;/PageTemplateGUID&gt;
+  &lt;PageTemplateLastModified&gt;2019-03-21T09:34:49.5908687+08:00&lt;/PageTemplateLastModified&gt;
+  &lt;PageTemplateSiteID&gt;6&lt;/PageTemplateSiteID&gt;
+  &lt;PageTemplateType&gt;portal&lt;/PageTemplateType&gt;
+  &lt;PageTemplateLayoutType&gt;ascx&lt;/PageTemplateLayoutType&gt;
+  &lt;PageTemplateCloneAsAdHoc&gt;false&lt;/PageTemplateCloneAsAdHoc&gt;
+  &lt;PageTemplateNodeGUID&gt;393c69ac-b2d5-4ea9-9017-9267c717b4a9&lt;/PageTemplateNodeGUID&gt;
+&lt;/CMS_PageTemplate&gt;
+&lt;CMS_PageTemplateSite&gt;
+  &lt;PageTemplateID&gt;26247&lt;/PageTemplateID&gt;
+  &lt;SiteID&gt;6&lt;/SiteID&gt;
+&lt;/CMS_PageTemplateSite&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;6&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;8ed8de02-03d1-40ec-b937-ea34dcf42333&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_pagetemplatecategory&lt;/ClassName&gt;
+    &lt;ID&gt;211&lt;/ID&gt;
+    &lt;CodeName&gt;AdHoc&lt;/CodeName&gt;
+    &lt;GUID&gt;f1b695a0-77ee-4119-ad84-9d77c2504260&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.pagetemplatecategory&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_pagetemplate&lt;/ClassName&gt;
+    &lt;ID&gt;26247&lt;/ID&gt;
+    &lt;CodeName&gt;438bc011-fc14-4db6-9dac-2b1d6d46352c&lt;/CodeName&gt;
+    &lt;SiteName&gt;BlankSite&lt;/SiteName&gt;
+    &lt;GUID&gt;438bc011-fc14-4db6-9dac-2b1d6d46352c&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.pagetemplate&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2019-03-21T09:36:04.7239344+08:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.pagetemplate</TaskObjectType>
+      <TaskObjectID>26247</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>8</TaskID>
+      <TaskSiteID>6</TaskSiteID>
+      <TaskTitle>Delete Page template 'Ad-hoc: ProductList'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_PageTemplate&gt;
+  &lt;PageTemplateID&gt;26248&lt;/PageTemplateID&gt;
+  &lt;PageTemplateDisplayName&gt;Ad-hoc: ProductList&lt;/PageTemplateDisplayName&gt;
+  &lt;PageTemplateCodeName&gt;0a3995a5-7804-4ee9-a5d2-22f0d199a270&lt;/PageTemplateCodeName&gt;
+  &lt;PageTemplateFile /&gt;
+  &lt;PageTemplateCategoryID&gt;211&lt;/PageTemplateCategoryID&gt;
+  &lt;PageTemplateWebParts&gt;&amp;lt;page /&amp;gt;&lt;/PageTemplateWebParts&gt;
+  &lt;PageTemplateIsReusable&gt;false&lt;/PageTemplateIsReusable&gt;
+  &lt;PageTemplateInheritPageLevels&gt;\&lt;/PageTemplateInheritPageLevels&gt;
+  &lt;PageTemplateLayout&gt;&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;
+  &amp;lt;div style="width: 20%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 60%; float: left;"&amp;gt;
+    &amp;lt;div class="Content"&amp;gt;&amp;lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&amp;gt;&amp;lt;/div&amp;gt;  
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 20%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneD" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="clear: both"&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneE" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/PageTemplateLayout&gt;
+  &lt;PageTemplateVersionGUID&gt;33ad15e6-7ef5-47f6-acb6-d9eb3b893e7e&lt;/PageTemplateVersionGUID&gt;
+  &lt;PageTemplateGUID&gt;0a3995a5-7804-4ee9-a5d2-22f0d199a270&lt;/PageTemplateGUID&gt;
+  &lt;PageTemplateLastModified&gt;2019-03-21T13:21:34.66616+08:00&lt;/PageTemplateLastModified&gt;
+  &lt;PageTemplateSiteID&gt;6&lt;/PageTemplateSiteID&gt;
+  &lt;PageTemplateType&gt;portal&lt;/PageTemplateType&gt;
+  &lt;PageTemplateLayoutType&gt;ascx&lt;/PageTemplateLayoutType&gt;
+  &lt;PageTemplateCloneAsAdHoc&gt;false&lt;/PageTemplateCloneAsAdHoc&gt;
+  &lt;PageTemplateNodeGUID&gt;5776c095-d971-4f5a-8340-eded3cbc268d&lt;/PageTemplateNodeGUID&gt;
+&lt;/CMS_PageTemplate&gt;
+&lt;CMS_PageTemplateSite&gt;
+  &lt;PageTemplateID&gt;26248&lt;/PageTemplateID&gt;
+  &lt;SiteID&gt;6&lt;/SiteID&gt;
+&lt;/CMS_PageTemplateSite&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;6&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;8ed8de02-03d1-40ec-b937-ea34dcf42333&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_pagetemplatecategory&lt;/ClassName&gt;
+    &lt;ID&gt;211&lt;/ID&gt;
+    &lt;CodeName&gt;AdHoc&lt;/CodeName&gt;
+    &lt;GUID&gt;f1b695a0-77ee-4119-ad84-9d77c2504260&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.pagetemplatecategory&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_pagetemplate&lt;/ClassName&gt;
+    &lt;ID&gt;26248&lt;/ID&gt;
+    &lt;CodeName&gt;0a3995a5-7804-4ee9-a5d2-22f0d199a270&lt;/CodeName&gt;
+    &lt;SiteName&gt;BlankSite&lt;/SiteName&gt;
+    &lt;GUID&gt;0a3995a5-7804-4ee9-a5d2-22f0d199a270&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.pagetemplate&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2019-03-21T13:42:45.6424337+08:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.pagetemplate</TaskObjectType>
+      <TaskObjectID>26248</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>9</TaskID>
+      <TaskSiteID>6</TaskSiteID>
+      <TaskTitle>Delete Page template 'Ad-hoc: ProductList'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_PageTemplate&gt;
+  &lt;PageTemplateID&gt;26250&lt;/PageTemplateID&gt;
+  &lt;PageTemplateDisplayName&gt;Ad-hoc: ProductList&lt;/PageTemplateDisplayName&gt;
+  &lt;PageTemplateCodeName&gt;f524cd68-8c9a-480c-ba0e-f38da5081ba6&lt;/PageTemplateCodeName&gt;
+  &lt;PageTemplateFile /&gt;
+  &lt;PageTemplateCategoryID&gt;211&lt;/PageTemplateCategoryID&gt;
+  &lt;PageTemplateWebParts&gt;&amp;lt;page /&amp;gt;&lt;/PageTemplateWebParts&gt;
+  &lt;PageTemplateIsReusable&gt;false&lt;/PageTemplateIsReusable&gt;
+  &lt;PageTemplateInheritPageLevels&gt;\&lt;/PageTemplateInheritPageLevels&gt;
+  &lt;PageTemplateLayout&gt;&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;
+  &amp;lt;div style="width: 20%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 60%; float: left;"&amp;gt;
+    &amp;lt;div class="Content"&amp;gt;&amp;lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&amp;gt;&amp;lt;/div&amp;gt;  
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 20%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneD" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="clear: both"&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneE" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/PageTemplateLayout&gt;
+  &lt;PageTemplateVersionGUID&gt;aa02ecc7-8235-42dd-aa44-f26280d9eacb&lt;/PageTemplateVersionGUID&gt;
+  &lt;PageTemplateGUID&gt;f524cd68-8c9a-480c-ba0e-f38da5081ba6&lt;/PageTemplateGUID&gt;
+  &lt;PageTemplateLastModified&gt;2019-03-21T14:09:50.8065592+08:00&lt;/PageTemplateLastModified&gt;
+  &lt;PageTemplateSiteID&gt;6&lt;/PageTemplateSiteID&gt;
+  &lt;PageTemplateType&gt;portal&lt;/PageTemplateType&gt;
+  &lt;PageTemplateLayoutType&gt;ascx&lt;/PageTemplateLayoutType&gt;
+  &lt;PageTemplateCloneAsAdHoc&gt;false&lt;/PageTemplateCloneAsAdHoc&gt;
+  &lt;PageTemplateNodeGUID&gt;3a183afe-65bc-4dfa-9a55-912f3d8e1b77&lt;/PageTemplateNodeGUID&gt;
+&lt;/CMS_PageTemplate&gt;
+&lt;CMS_PageTemplateSite&gt;
+  &lt;PageTemplateID&gt;26250&lt;/PageTemplateID&gt;
+  &lt;SiteID&gt;6&lt;/SiteID&gt;
+&lt;/CMS_PageTemplateSite&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;6&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;8ed8de02-03d1-40ec-b937-ea34dcf42333&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_pagetemplatecategory&lt;/ClassName&gt;
+    &lt;ID&gt;211&lt;/ID&gt;
+    &lt;CodeName&gt;AdHoc&lt;/CodeName&gt;
+    &lt;GUID&gt;f1b695a0-77ee-4119-ad84-9d77c2504260&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.pagetemplatecategory&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_pagetemplate&lt;/ClassName&gt;
+    &lt;ID&gt;26250&lt;/ID&gt;
+    &lt;CodeName&gt;f524cd68-8c9a-480c-ba0e-f38da5081ba6&lt;/CodeName&gt;
+    &lt;SiteName&gt;BlankSite&lt;/SiteName&gt;
+    &lt;GUID&gt;f524cd68-8c9a-480c-ba0e-f38da5081ba6&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.pagetemplate&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2019-03-21T14:10:13.6735237+08:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.pagetemplate</TaskObjectType>
+      <TaskObjectID>26250</TaskObjectID>
+    </export_task>
+    <export_task>
+      <TaskID>10</TaskID>
+      <TaskSiteID>6</TaskSiteID>
+      <TaskTitle>Delete Page template 'Ad-hoc: ProductList'</TaskTitle>
+      <TaskData>&lt;NewDataSet&gt;
+&lt;CMS_PageTemplate&gt;
+  &lt;PageTemplateID&gt;26249&lt;/PageTemplateID&gt;
+  &lt;PageTemplateDisplayName&gt;Ad-hoc: ProductList&lt;/PageTemplateDisplayName&gt;
+  &lt;PageTemplateCodeName&gt;4eb124f5-6c98-486a-9ec9-1047e32a2171&lt;/PageTemplateCodeName&gt;
+  &lt;PageTemplateFile /&gt;
+  &lt;PageTemplateCategoryID&gt;211&lt;/PageTemplateCategoryID&gt;
+  &lt;PageTemplateWebParts&gt;&amp;lt;page /&amp;gt;&lt;/PageTemplateWebParts&gt;
+  &lt;PageTemplateIsReusable&gt;false&lt;/PageTemplateIsReusable&gt;
+  &lt;PageTemplateInheritPageLevels&gt;\&lt;/PageTemplateInheritPageLevels&gt;
+  &lt;PageTemplateLayout&gt;&amp;lt;div&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneA" runat="server" /&amp;gt;      
+&amp;lt;/div&amp;gt;
+&amp;lt;div&amp;gt;
+  &amp;lt;div style="width: 20%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneB" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 60%; float: left;"&amp;gt;
+    &amp;lt;div class="Content"&amp;gt;&amp;lt;cms:CMSWebPartZone ZoneID="zoneC" runat="server" /&amp;gt;&amp;lt;/div&amp;gt;  
+  &amp;lt;/div&amp;gt;
+  &amp;lt;div style="width: 20%; float: left;"&amp;gt;
+    &amp;lt;cms:CMSWebPartZone ZoneID="zoneD" runat="server" /&amp;gt;      
+  &amp;lt;/div&amp;gt;
+&amp;lt;/div&amp;gt;
+&amp;lt;div style="clear: both"&amp;gt;
+  &amp;lt;cms:CMSWebPartZone ZoneID="zoneE" runat="server" /&amp;gt;
+&amp;lt;/div&amp;gt;&lt;/PageTemplateLayout&gt;
+  &lt;PageTemplateVersionGUID&gt;ac42cefd-fa2e-41f3-9a29-672566a09c1c&lt;/PageTemplateVersionGUID&gt;
+  &lt;PageTemplateGUID&gt;4eb124f5-6c98-486a-9ec9-1047e32a2171&lt;/PageTemplateGUID&gt;
+  &lt;PageTemplateLastModified&gt;2019-03-21T14:09:37.3913879+08:00&lt;/PageTemplateLastModified&gt;
+  &lt;PageTemplateSiteID&gt;6&lt;/PageTemplateSiteID&gt;
+  &lt;PageTemplateType&gt;portal&lt;/PageTemplateType&gt;
+  &lt;PageTemplateLayoutType&gt;ascx&lt;/PageTemplateLayoutType&gt;
+  &lt;PageTemplateCloneAsAdHoc&gt;false&lt;/PageTemplateCloneAsAdHoc&gt;
+  &lt;PageTemplateNodeGUID&gt;e5ddf260-8adc-48ae-80a4-862d5dce3acd&lt;/PageTemplateNodeGUID&gt;
+&lt;/CMS_PageTemplate&gt;
+&lt;CMS_PageTemplateSite&gt;
+  &lt;PageTemplateID&gt;26249&lt;/PageTemplateID&gt;
+  &lt;SiteID&gt;6&lt;/SiteID&gt;
+&lt;/CMS_PageTemplateSite&gt;
+
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_site&lt;/ClassName&gt;
+    &lt;ID&gt;6&lt;/ID&gt;
+    &lt;CodeName&gt;BlankSite&lt;/CodeName&gt;
+    &lt;GUID&gt;8ed8de02-03d1-40ec-b937-ea34dcf42333&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.site&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_pagetemplatecategory&lt;/ClassName&gt;
+    &lt;ID&gt;211&lt;/ID&gt;
+    &lt;CodeName&gt;AdHoc&lt;/CodeName&gt;
+    &lt;GUID&gt;f1b695a0-77ee-4119-ad84-9d77c2504260&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.pagetemplatecategory&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+  &lt;ObjectTranslation&gt;
+    &lt;ClassName&gt;cms_pagetemplate&lt;/ClassName&gt;
+    &lt;ID&gt;26249&lt;/ID&gt;
+    &lt;CodeName&gt;4eb124f5-6c98-486a-9ec9-1047e32a2171&lt;/CodeName&gt;
+    &lt;SiteName&gt;BlankSite&lt;/SiteName&gt;
+    &lt;GUID&gt;4eb124f5-6c98-486a-9ec9-1047e32a2171&lt;/GUID&gt;
+    &lt;ObjectType&gt;cms.pagetemplate&lt;/ObjectType&gt;
+  &lt;/ObjectTranslation&gt;
+
+&lt;/NewDataSet&gt;
+</TaskData>
+      <TaskTime>2019-03-21T14:10:17.8013414+08:00</TaskTime>
+      <TaskType>DELETEOBJ</TaskType>
+      <TaskObjectType>cms.pagetemplate</TaskObjectType>
+      <TaskObjectID>26249</TaskObjectID>
+    </export_task>
+  </NewDataSet>
+</cms_pagetemplate>
